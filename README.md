@@ -3,8 +3,12 @@
 <h2 align="center">Also make Machine Learning and Deep Learning Models</h2>
 <img align="right" alt="Coding" width="950" height="400" src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssourav-coleb&label=Profile%20views&color=0e75b6&style=flat" alt="sourav-coleb" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourav-coleb" alt="sourav-coleb" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=
+sourav-pauI&label=Profile%20views&color=0e75b6&style=flat" alt="
+sourav-pauI" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=
+sourav-pauI" alt="
+sourav-pauI" /></a> </p>
 
 - 🔭 I’m currently working on **JavaScript**
 
